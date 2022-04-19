@@ -95,6 +95,14 @@ h2 {
     text-align: center;
 }
 
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    text-align: center;
+}
+
 .image-one {
     width: 243.2px;
     height: 364.8px;
