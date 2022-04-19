@@ -1,7 +1,7 @@
 # landing-page
 
 Family Portraits photo credit -
-Photo by Kelly Sikkema on Unsplash 
+Photo by Jonathan Borba on Unsplash 
 
 Senior Portraits photo credit - 
 Photo by Andi Rieger on Unsplash
