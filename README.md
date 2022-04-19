@@ -3,6 +3,7 @@
 ##Simple photography landing page made from html and css
 
 ##Photo Credits
+
 Landing Page main image photo credit - 
 Photo by Christian Wiediger on Unsplash
 
