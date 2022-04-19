@@ -138,3 +138,25 @@ h2 {
     font-size: 20px;
     color: #1F2937;
 }
+
+/* Second Section Styling  */
+.section-two {
+    color: #1F2937;
+    background-color: #E5E7EB;
+    font-weight: light;
+    font-size: 36px;
+    margin-top: 100px;
+    display: flex;
+}
+
+.quote {
+    align-self: center;
+    margin: 150px 200px;
+}
+
+span {
+    float: right;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 20px 0 0 0;
+}
