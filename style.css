@@ -84,3 +84,32 @@ h1 {
     width: 562.5px;
     height: 375px;
 }
+
+/* First Section Styling */
+h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    font-family: Hero, sans-serif;
+    text-align: center;
+}
+
+.image-one {
+    width: 243.2px;
+    height: 364.8px;
+}
+
+.image-two {
+    width: 230.4px;
+    height: 345.6px;
+}
+
+.image-three {
+    width: 243.2px;
+    height: 364.8px;
+}
+
+.image-four {
+    width: 260.67px;
+    height: 325.87px;
+}
