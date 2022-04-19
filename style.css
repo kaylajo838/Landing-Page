@@ -206,3 +206,14 @@ span {
     color: white;
     font-weight: 600;
 }
+
+/* Footer Styling */
+footer {
+    color: white;
+    background-color: #1F2937;
+    padding: 25px 0;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
