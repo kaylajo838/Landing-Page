@@ -130,3 +130,9 @@ h2 {
     border-radius: 0.5em;
     border: 5px solid #3882F6;
 }
+
+.text {
+    margin-top: 8px;
+    font-size: 20px;
+    color: #1F2937;
+}
