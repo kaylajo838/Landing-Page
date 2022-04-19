@@ -106,19 +106,27 @@ h2 {
 .image-one {
     width: 243.2px;
     height: 364.8px;
+    border-radius: 0.5em;
+    border: 5px solid #3882F6;
 }
 
 .image-two {
     width: 230.4px;
     height: 345.6px;
+    border-radius: 0.5em;
+    border: 5px solid #3882F6;
 }
 
 .image-three {
     width: 243.2px;
     height: 364.8px;
+    border-radius: 0.5em;
+    border: 5px solid #3882F6;
 }
 
 .image-four {
     width: 260.67px;
     height: 325.87px;
+    border-radius: 0.5em;
+    border: 5px solid #3882F6;
 }
