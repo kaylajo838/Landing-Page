@@ -48,12 +48,14 @@ ul {
 }
 
 h1 {
+    margin-bottom: 5px;
     font-size: 48px;
     font-weight: 900;
     font-family: Hero, sans-serif;
 }
 
 .header-text {
+    margin-top: 0px;
     font-size: 18px;
     font-family: Hero, sans-serif;
 }
